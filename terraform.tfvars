@@ -1,10 +1,10 @@
 ####################
 # Common Variables #
 ####################
-company     = "kopicloud"
+company     = "acmecorp"
 app_name    = "iaas"
-environment = "development"
-location    = "northeurope"
+environment = "DEV"
+location    = "centralus"
 
 ##################
 # Authentication #
